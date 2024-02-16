@@ -15,13 +15,9 @@ I am a Backend Engineer 💻. Let's innovative solutions together 🚀
 
 <p>
   
- 🔭 I’m currently working on something cool!
+Currently learning about payments at Scale 💸  💬 Ask me about anything, I am happy to help 🤗
 
- 🌱 Learning about Payments at Scale, Kotlin , Japan
-
- 💬 Ask me about anything, I am happy to help 🤗
-
-
+<!-- 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 📋 Programming languages
@@ -154,7 +150,7 @@ I am a Backend Engineer 💻. Let's innovative solutions together 🚀
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 
 <br> 
-
+--> 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tikumegha&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
